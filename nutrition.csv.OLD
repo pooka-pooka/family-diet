@@ -1,0 +1,10 @@
+name,calories,total_fat_g,total_fat_p,sat_fat_g,sat_fat_p,trans_fat_g,cholesterol_mg,cholesterol_p,sodium_mg,sodium_p,total_carb_g,total_carb_p,dietary_fiber_g,dietary_fiber_p,total_sugar_g,added_sugar_g,added_sugar_p,protein_g,protein_p,vitamin_d_mcg,vitamin_d_p,calcium_mg,calcium_p,iron_mg,iron_p,pottassium_mg,pottassium_p
+Org Hulled Millet,189,2,2.5,0.35,2,0,0,0,2.5,0,36.5,13.5,4,14.5,0,0,0,5.5,11,0,0,4,0,1.5,7.5,97.5,2
+Org Steel Cut Oats,170,3,5,0.5,3,0,0,0,0,0,29,10,5,20,0,0,0,6,12,0,0,26,2,1.8,10,0,0
+Org Hulled Buckwheat Groats,150,1,1,0,0,0,0,0,0,0,28,10,1,4,0,0,0,6,12,0,0,30.2,2,0.9,4,140,2
+Org Brown Rice,150,1.5,2,0,0,0,0,0,0,0,35,12,3,12,1,0,0,3,6,0,0,0,0,0.16,2,0,0
+Org Raw Spanish Peanuts,208,17.38,26.75,2.68,13.5,0,0,0,0.38,0,7.63,2.5,3.18,12.8,0,0,0,9.15,18.25,0,0,22.63,2.25,0.78,4.25,121.25,3.5
+Org Cheese Stick,80,6,7,3.5,18,0,15,5,190,8,0,0,0,0,0,0,0,7,15,0,0,200,15,0,0,0,0
+Org Pinto Beans,190,0.5,1,0,0,0,0,0,0,0,34,11,10,40,0,0,0,13,26,0,0,80,8,1.6,20,610,13
+Org Kidney Beans,70,0,0,0,0,0,0,0,20,1,22,7,14,50,1,0,0,9,18,0,0,20,2,2.5,14,610,13
+
